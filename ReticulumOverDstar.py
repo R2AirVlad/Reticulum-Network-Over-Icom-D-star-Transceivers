@@ -2,6 +2,7 @@
 # compatible transceivers using Base64 encoding for ASCII-only
 # data transmission. Designed for Icom D-star transceivers
 # like IC-705 and ID-52.
+# by R2AIR
 
 from time import sleep
 import sys
